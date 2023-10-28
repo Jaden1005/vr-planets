@@ -1,1 +1,1 @@
-# vr-planets
+# VR-Solar-System
